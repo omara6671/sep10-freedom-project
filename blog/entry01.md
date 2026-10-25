@@ -59,26 +59,19 @@ Keeping organized notes has helped me stay focused and track my progress as I mo
 
 ## Engineering Design Process
 
-At this point, I am working within the **engineering design process**.
+At this point, I am currently in **Step 1 of the engineering design process: Define the Problem**.
 
-I have completed the early stages of learning about the project, exploring different possibilities, researching topics, and finally selecting my topic. Through these activities, I have identified the area that I would like to focus on for the remainder of the Freedom Project.
+Over the past few weeks, I have been exploring different industries, researching possible topics, and reflecting on my interests in order to determine what field I wanted to focus on for my Freedom Project. Through this process, I was able to identify a topic that genuinely interests me and connects strongly to technology.
 
-The problem I hope to address is:
+The problem I hope to address through my project is:
 
 > **Many people are not informed about current and future technologies used in automotive engineering.**
 
-My website will help inform students about the technologies that influence modern vehicles and how future innovations may transform transportation.
+By creating a website about automotive engineering, I hope to help students better understand the technologies that influence modern vehicles and how future innovations may change transportation.
 
-As I continue through the engineering design process, my next step is to conduct deeper research into technologies such as:
+Now that I have officially confirmed my topic, my next step in the **engineering design process** will be **Step 2: Research the Problem**. During that stage, I plan to investigate automotive technologies in greater depth by learning about robotics, electric vehicles, manufacturing systems, automation, artificial intelligence, and future transportation technologies.
 
-* Robotics
-* Vehicle automation
-* Electric vehicles (EVs)
-* Artificial intelligence
-* Manufacturing technology
-* Future transportation systems
-
-This research will help me build a stronger understanding of my topic before eventually creating my website.
+The information I gather during the research stage will help me develop a stronger understanding of the problem and prepare me for the later stages of the engineering design process.
 
 ---
 
