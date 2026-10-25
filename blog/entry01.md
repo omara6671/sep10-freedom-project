@@ -1,5 +1,5 @@
 # SEP10 Freedom Project
-## Entry 1: Confirming My Topic
+## Entry 1: Exploring My Interest in Automotive Engineering
 ##### 10/25/2026
 
 ---
@@ -12,11 +12,11 @@ Over the past few weeks, we have been introduced to the Freedom Project and have
 
 Since then, I have researched multiple industries, explored different technologies, completed an implications practice activity, and reflected on which topic best matches my interests.
 
-The topic I decided to choose for my Freedom Project is **Automotive Engineering**. I chose this topic because I have always been fascinated by how vehicles work and how innovation can transform transportation. I enjoy learning about the systems that make vehicles function and the engineering behind designing safer, faster, and more efficient transportation. One idea that especially interests me is the possibility of creating a new way to power vehicles without relying on traditional fuel or electricity. Designing future automotive technologies combines many things I enjoy, including creativity, engineering, technology, and problem-solving.
+As of right now, the topic I am most interested in pursuing for my Freedom Project is **Automotive Engineering**. I chose this topic because I have always been fascinated by how vehicles work and how innovation can transform transportation. I enjoy learning about the systems that make vehicles function and the engineering behind designing safer, faster, and more efficient transportation. One idea that especially interests me is the possibility of creating a new way to power vehicles without relying on traditional fuel or electricity. Designing future automotive technologies combines many things I enjoy, including creativity, engineering, technology, and problem-solving.
 
-Before making my final decision, I also considered **Aviation/Aerospace** and **Chemistry/Chemical Engineering**. Aviation interested me because I hope to become an astronomer in the future and enjoy learning about flight and space technology. Chemistry also interested me because it plays an important role in scientific discovery and technological innovation. Although I enjoyed researching these areas, automotive engineering stood out because it connected most closely to my interests and long-term curiosity.
+Before reaching this point in the project, I also considered **Aviation/Aerospace** and **Chemistry/Chemical Engineering**. Aviation interested me because I hope to become an astronomer in the future and enjoy learning about flight and space technology. Chemistry also interested me because it plays an important role in scientific discovery and technological innovation. Although I enjoyed researching these fields, automotive engineering stood out because it connected most closely to my interests and long-term curiosity.
 
-As I explored different topics, several sources helped strengthen my interest in automotive engineering. Reading about **[Automotive Engineering Technology](https://www.ncat.edu/cost/departments/applied-engineering-technology/bs-automotive-engineering-technology.php)** helped me better understand the field and the technologies automotive engineers work with. I also explored **[Tesla Manufacturing](https://www.tesla.com/manufacturing)**, which showed how robotics and automation are used in modern vehicle production. Another source that influenced me was **[Automotive Robots](https://www.wevolver.com/article/automotive-robots)**, which demonstrated how advanced technology is changing manufacturing within the automotive industry. Learning about these innovations made me even more confident that automotive engineering was the right topic for me.
+As I explored different topics, several sources helped strengthen my interest in automotive engineering. Reading about **[Automotive Engineering Technology](https://www.ncat.edu/cost/departments/applied-engineering-technology/bs-automotive-engineering-technology.php)** helped me better understand the field and the technologies automotive engineers work with. I also explored **[Tesla Manufacturing](https://www.tesla.com/manufacturing)**, which showed how robotics and automation are used in modern vehicle production. Another source that influenced me was **[Automotive Robots](https://www.wevolver.com/article/automotive-robots)**, which demonstrated how advanced technology is changing manufacturing within the automotive industry. Learning about these innovations strengthened my interest in automotive engineering and made it the topic I am most interested in exploring at this point in the project.
 
 ---
 
@@ -59,9 +59,9 @@ Keeping organized notes has helped me stay focused and track my progress as I mo
 
 ## Engineering Design Process
 
-At this point, I am currently in **Step 1 of the engineering design process: Define the Problem**.
+At this point, I am currently in **Step 1 of the engineering design process: Define the Problem**, while beginning to transition into **Step 2: Research the Problem**.
 
-Over the past few weeks, I have been exploring different industries, researching possible topics, and reflecting on my interests in order to determine what field I wanted to focus on for my Freedom Project. Through this process, I was able to identify a topic that genuinely interests me and connects strongly to technology.
+Over the past few weeks, I have been exploring different industries, researching possible topics, and reflecting on my interests in order to determine which field I would like to focus on for my Freedom Project. Through this process, automotive engineering has emerged as the topic that interests me the most right now and connects strongly to technology.
 
 The problem I hope to address through my project is:
 
@@ -69,9 +69,16 @@ The problem I hope to address through my project is:
 
 By creating a website about automotive engineering, I hope to help students better understand the technologies that influence modern vehicles and how future innovations may change transportation.
 
-Now that I have officially confirmed my topic, my next step in the **engineering design process** will be **Step 2: Research the Problem**. During that stage, I plan to investigate automotive technologies in greater depth by learning about robotics, electric vehicles, manufacturing systems, automation, artificial intelligence, and future transportation technologies.
+As I continue through the **engineering design process**, my next step will be **Step 2: Research the Problem**. During this stage, I plan to conduct deeper research using articles, educational resources, industry websites, and my notes to learn more about:
 
-The information I gather during the research stage will help me develop a stronger understanding of the problem and prepare me for the later stages of the engineering design process.
+* Robotics
+* Electric vehicles (EVs)
+* Vehicle automation
+* Manufacturing systems
+* Artificial intelligence in transportation
+* Future transportation technologies
+
+The information I gather during the research stage will help me develop a stronger understanding of the problem and prepare me for later stages of the engineering design process, including brainstorming possible solutions and planning my website.
 
 ---
 
@@ -89,26 +96,27 @@ At first, searching broad terms often produced too much information. As I contin
 * vehicle automation
 * robotics in car factories
 * EV engineering careers
+* day in the life of an automotive engineer
 
-These more specific searches helped me find information that was much more relevant to my topic.
+These more specific searches helped me find information that was much more relevant to my topic and improved the quality of my research.
 
 ### Research
 
 Another skill I strengthened was **research**.
 
-Instead of relying on a single website, I explored multiple sources and compared the information they provided. By reading different articles, educational resources, and industry websites, I developed a better understanding of each topic before making my final decision.
+Instead of relying on a single website, I explored multiple sources and compared the information they provided. By reading different articles, educational resources, and industry websites, I developed a better understanding of each topic before making my decision about which field interests me the most.
 
 ### Organization
 
 I also improved my **organization** skills.
 
-Because I was researching multiple topics at once, it was important to keep track of links, notes, and ideas. Maintaining organized notes helped me stay focused and made it easier to compare topics and review information when making my final choice.
+Because I was researching multiple topics at once, it was important to keep track of links, notes, sources, and ideas. Maintaining organized notes helped me stay focused and made it easier to compare topics, revisit information, and monitor my progress throughout the project.
 
 ---
 
 ## Next Steps
 
-Now that I have confirmed my topic, I plan to continue researching automotive engineering and the technologies that drive the field forward.
+As automotive engineering is currently the topic I am most interested in pursuing, I plan to continue researching the technologies that drive the field forward.
 
 Some questions I hope to answer include:
 
@@ -118,12 +126,14 @@ Some questions I hope to answer include:
 * What future technologies may change the automotive industry?
 * How can technology make transportation safer and more efficient?
 
+The answers to these questions will help me better understand the industry and prepare me for the next stages of the Freedom Project.
+
 I am excited to continue learning more about automotive engineering and exploring the ways technology continues to transform transportation.
 
 ---
 
 ## Reflection
 
-Overall, I am confident that automotive engineering is the right topic for my Freedom Project. Through researching multiple industries, evaluating sources, and reflecting on my interests, I was able to identify a topic that genuinely excites me. This process also helped me strengthen my skills in research, organization, and effective searching. I look forward to continuing through the engineering design process and learning more about the technologies that will shape the future of transportation.
+Overall, automotive engineering is currently the topic that interests me the most for my Freedom Project. Through researching multiple industries, evaluating sources, and reflecting on my interests, I was able to identify the topic that currently excites me the most and best connects my passion with technology. This process also helped me strengthen my skills in research, organization, effective searching, and critical thinking. I look forward to continuing through the engineering design process and learning more about the technologies that will shape the future of transportation.
 
 ---
