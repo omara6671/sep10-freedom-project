@@ -116,7 +116,7 @@ Because I was researching multiple topics at once, it was important to keep trac
 
 ## Next Steps
 
-As automotive engineering is currently the topic I am most interested in pursuing, I plan to continue researching the technologies that drive the field forward.
+As automotive engineering is currently the topic I am most interested in pursuing, I plan to continue researching the technologies that help push the field forward.
 
 Some questions I hope to answer include:
 
