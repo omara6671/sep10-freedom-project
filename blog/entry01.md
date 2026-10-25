@@ -1,5 +1,7 @@
 # SEP10 Freedom Project
 ## Entry 1: Exploring My Interest in Automotive Engineering
+## Name: Omar Al-Absi Sanchez
+## Period: 2
 ##### 10/25/2026
 
 ---
