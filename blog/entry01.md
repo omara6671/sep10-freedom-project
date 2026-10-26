@@ -36,7 +36,7 @@ During this process, I found myself spending the most time researching *_automot
 
 ---
 
-## Previous Freedom Project Activities
+## Freedom Project Progress So Far
 
 So far, I have completed several important Freedom Project activities:
 
