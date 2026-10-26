@@ -43,7 +43,7 @@ So far, I have completed several important Freedom Project activities:
 * **09/28/2026** – Freedom Project Overview
 * **10/05/2026** – Browse Topics and Research Top 3 Choices
 * **10/13/2026** – Implications Practice
-* **10/25/2026** – Exploring Automotive Engineering as a Topic Idea (this blog entry)
+* **10/25/2026** – Exploring Automotive Engineering as a Topic of Interest (this blog entry)
 
 One activity that particularly helped me prepare for this project was the implications practice assignment. For that activity, I analyzed the positive and negative impacts of Wikipedia from global, social, and economic perspectives. The assignment helped me realize that technology affects much more than devices and machines. It can impact education, communication, jobs, culture, and society as a whole.
 
