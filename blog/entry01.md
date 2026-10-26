@@ -12,11 +12,11 @@ Over the past few weeks, we have been introduced to the Freedom Project and have
 
 > **How does technology connect to other fields?**
 
-Since then, I have researched multiple industries, explored different technologies, completed an implications practice activity, and reflected on which topic best matches my interests.
+Since then, I have researched multiple industries, explored different technologies, completed an implications practice activity, and reflected on which topic best matches my *_interests_*.
 
-As of right now, the topic I am most interested in pursuing for my Freedom Project is **Automotive Engineering**. I chose this topic because I have always been fascinated by how vehicles work and how innovation can transform transportation. I enjoy learning about the systems that make vehicles function and the engineering behind designing safer, faster, and more efficient transportation. One idea that especially interests me is the possibility of creating a new way to power vehicles without relying on traditional fuel or electricity. Designing future automotive technologies combines many things I enjoy, including creativity, engineering, technology, and problem-solving.
+As of right now, the topic I am most interested in pursuing for my Freedom Project is **Automotive Engineering**. I chose this topic because I have always been fascinated by how vehicles work and how innovation can transform transportation. I enjoy learning about the systems that make vehicles function and the engineering behind designing safer, faster, and more efficient transportation. One idea that especially interests me is the possibility of creating a new way to power vehicles without relying on traditional fuel or electricity. *_Designing future automotive technologies_* combines many things I enjoy, including creativity, engineering, technology, and problem-solving.
 
-Before reaching this point in the project, I also considered **Aviation/Aerospace** and **Chemistry/Chemical Engineering**. Aviation interested me because I hope to become an astronomer in the future and enjoy learning about flight and space technology. While researching this field, I explored resources such as **[NASA](https://www.nasa.gov/)** and **[Airbus Innovation](https://www.airbus.com/en/innovation)**, which helped me learn more about aerospace technology and innovation. Chemistry also interested me because it plays an important role in scientific discovery and technological advancement. While exploring this topic, I researched resources such as **[NCATS Chemistry Technology](https://ncats.nih.gov/research/research-activities/chemistry-technology)** and **[Thermo Fisher Lab Automation](https://www.thermofisher.com/us/en/home/life-science/lab-equipment/lab-automation.html)**, which showed how technology is used in laboratories and chemical engineering. Although I enjoyed researching these fields, automotive engineering stood out because it connected most closely to my interests and long-term curiosity.
+Before reaching this point in the project, I also considered other topic ideas, including **Aviation/Aerospace** and **Chemistry/Chemical Engineering**. Aviation interested me because I hope to become an astronomer in the future and enjoy learning about flight and space technology. While researching this field, I explored resources such as **[NASA](https://www.nasa.gov/)** and **[Airbus Innovation](https://www.airbus.com/en/innovation)**, which helped me learn more about aerospace technology and innovation. Chemistry also interested me because it plays an important role in scientific discovery and technological advancement. While exploring this topic, I researched resources such as **[NCATS Chemistry Technology](https://ncats.nih.gov/research/research-activities/chemistry-technology)** and **[Thermo Fisher Lab Automation](https://www.thermofisher.com/us/en/home/life-science/lab-equipment/lab-automation.html)**, which showed how technology is used in laboratories and chemical engineering. Although I enjoyed researching these fields, automotive engineering stood out because it connected most closely to my *_interests_* and long-term curiosity.
 
 As I explored different topics, several sources helped strengthen my interest in automotive engineering. Reading about **[Automotive Engineering Technology](https://www.ncat.edu/cost/departments/applied-engineering-technology/bs-automotive-engineering-technology.php)** helped me better understand the field and the technologies automotive engineers work with. I also explored **[Tesla Manufacturing](https://www.tesla.com/manufacturing)**, which showed how robotics and automation are used in modern vehicle production. Another source that influenced me was **[Automotive Robots](https://www.wevolver.com/article/automotive-robots)**, which demonstrated how advanced technology is changing manufacturing within the automotive industry. Learning about these innovations strengthened my interest in automotive engineering and made it the topic I am most interested in exploring at this point in the project.
 
@@ -32,7 +32,7 @@ Throughout the topic exploration process, I researched three different industrie
 
 Some additional automotive engineering resources that helped me learn about the field include **[EV Engineering Careers](https://ev.careers/jobs/engineering)** and **[A Day in the Life of an Automotive Engineer](https://enspire-city.enginuity.org/case-studies/cars/a-day-in-the-life-of-a-automotive-engineer)**. These resources helped me understand what automotive engineers do, how technology is used in the industry, and the types of careers available within the field.
 
-During this process, I found myself spending the most time researching automotive engineering. The more I learned about vehicle technology, robotics, manufacturing systems, and future transportation innovations, the more interested I became in the topic.
+During this process, I found myself spending the most time researching *_automotive engineering_*. The more I learned about vehicle technology, robotics, manufacturing systems, and future transportation innovations, the more interested I became in the topic.
 
 ---
 
@@ -67,7 +67,7 @@ Over the past few weeks, I have been exploring different industries, researching
 
 The problem I hope to address through my project is:
 
-> **Many people are not informed about current and future technologies used in automotive engineering.**
+> ***Many people are not informed about current and future technologies used in automotive engineering.***
 
 By creating a website about automotive engineering, I hope to help students better understand the technologies that influence modern vehicles and how future innovations may change transportation.
 
@@ -130,12 +130,12 @@ Some questions I hope to answer include:
 
 The answers to these questions will help me better understand the industry and prepare me for the next stages of the Freedom Project.
 
-I am excited to continue learning more about automotive engineering and exploring the ways technology continues to transform transportation.
+I am excited to continue learning more about automotive engineering and exploring the ways technology continues to *_transform transportation_*.
 
 ---
 
 ## Reflection
 
-Overall, automotive engineering is currently the topic that interests me the most for my Freedom Project. Through researching multiple industries, evaluating sources, and reflecting on my interests, I was able to identify the topic that currently excites me the most and best connects my passion with technology. This process also helped me strengthen my skills in research, organization, effective searching, and critical thinking. I look forward to continuing through the engineering design process and learning more about the technologies that will shape the future of transportation.
+Overall, automotive engineering is currently the topic that interests me *_the most_* for my Freedom Project. Through researching multiple industries, evaluating sources, and reflecting on my interests, I was able to identify the topic that currently excites me the most and best connects my passion with technology. This process also helped me strengthen my skills in research, organization, effective searching, and critical thinking. I look forward to continuing through the engineering design process and learning more about the technologies that will shape the future of transportation.
 
 ---
