@@ -58,7 +58,7 @@ Topic: **X**
   * Often used for product development and manufacturing preparation.
   * Hardware: Windows.
   * Picture:
-        ![PTC Creo Modeling](IMAGE_URL_HERE)
+        ![PTC Creo Modeling](https://github.com/omara6671/sep10-freedom-project/blob/af9e130accd573f2bb1df9b7a4bc93f1457852d9/image-1024x576.jpg)
   * Image URL: https://skillableindia.com/wp-content/uploads/2023/07/image-1024x576.jpg
   * Source researched: Creo is a major automotive engineering CAD platform.
 
