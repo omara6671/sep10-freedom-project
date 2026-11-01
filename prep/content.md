@@ -1,9 +1,11 @@
 # Content
-Topic: **X**
+Topic: **Automotive Engineering**
 
 ## Overview/Introduction/Context
-* Text
-* Text
+* Automotive engineering combines mechanical engineering, electrical engineering, software development, manufacturing, and design to create safer, more efficient, and more advanced vehicles.
+* Modern vehicles rely heavily on software for design, simulation, testing, manufacturing, diagnostics, automation, and electric vehicle systems.
+* Automotive engineers use specialized software throughout the vehicle development process, from creating 3D models to testing crash safety and managing manufacturing operations.
+* As vehicles continue to become more technologically advanced, software plays an increasingly important role in improving performance, safety, sustainability, and production efficiency.
 
 ## Part A: existing technology
 
@@ -115,6 +117,7 @@ Topic: **X**
 * Software allows engineers to model, analyze, and improve vehicles before they are manufactured.
 * Many automotive software tools support electric vehicle development, battery systems, and future transportation technologies.
 * Modern automotive development depends on software throughout the design, testing, and production process.
+
 
 
 
