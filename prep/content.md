@@ -36,8 +36,8 @@ Topic: **X**
   * Commonly used for designing car bodies and automotive parts.
   * Hardware: Windows Workstations.
   * Picture: *(CATIA automotive vehicle design interface from Dassault Systèmes website)*
-  * Image URL: **[INSERT IMAGE URL HERE]**
-  * Source researched: CATIA is widely used for full vehicle product development and automotive CAD workflows. 
+  * Image URL: https://www.3ds.com/fileadmin/depositary/alliances/CRM_PARTATT/20141200/PPR0000189_1cava_1251_screen.jpg
+  * Source researched: CATIA is widely used for full vehicle product development and automotive CAD workflows.
 
 * **Siemens NX**
   * Link: https://plm.sw.siemens.com/en-US/nx/
@@ -46,8 +46,8 @@ Topic: **X**
   * Supports CAD and CAM workflows.
   * Hardware: Windows Workstations.
   * Picture: *(NX automotive CAD assembly screenshot from Siemens)*
-  * Image URL: **[INSERT IMAGE URL HERE]**
-  * Source researched: Siemens NX supports complex assemblies and automotive manufacturing workflows. 
+  * Image URL: https://blogs.sw.siemens.com/wp-content/uploads/sites/2/2025/02/Screenshot-2025-02-24-124701-1-1024x576.png
+  * Source researched: Siemens NX supports complex assemblies and automotive manufacturing workflows.
 
 * **PTC Creo**
   * Link: https://www.ptc.com/en/products/creo
@@ -56,27 +56,27 @@ Topic: **X**
   * Often used for product development and manufacturing preparation.
   * Hardware: Windows.
   * Picture: *(Creo automotive part modeling image)*
-  * Image URL: **[INSERT IMAGE URL HERE]**
-  * Source researched: Creo is a major automotive engineering CAD platform. 
+  * Image URL: https://skillableindia.com/wp-content/uploads/2023/07/image-1024x576.jpg
+  * Source researched: Creo is a major automotive engineering CAD platform.
 
 * **Autodesk Fusion 360**
   * Link: https://www.autodesk.com/products/fusion-360
   * Cloud-based CAD software.
   * Used for designing automotive components and prototypes.
   * Supports generative design for lightweight vehicle parts.
-  * Hardware: Windows/macOS.
+  * Hardware: Windows, macOS, Web Browser.
   * Picture: *(Fusion 360 automotive component rendering)*
-  * Image URL: **[INSERT IMAGE URL HERE]**
-  * Source researched: Fusion 360 is used for automotive drafting and design workflows. 
+  * Image URL: https://develop3d.com/wp-content/uploads/2019/11/fusion_intro.png
+  * Source researched: Fusion 360 is used for automotive drafting and design workflows.
 
 * **Onshape**
   * Link: https://www.onshape.com
   * Browser-based CAD platform.
   * Allows engineers to collaborate on vehicle designs in real time.
   * Useful for team-based engineering projects.
-  * Hardware: Browser, Windows, macOS, ChromeOS.
+  * Hardware: ChromeOS, Windows, macOS, Linux, Web Browser.
   * Picture: *(Onshape collaborative CAD interface)*
-  * Image URL: **[INSERT IMAGE URL HERE]**
+  * Image URL: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGBaZYOIiff5OcMYIAFM0HxeRz0C6FsaFrU0-Ortqx270Av-UDUtiYeFw&s=10
   * Source researched: Onshape is known for cloud collaboration and automotive CAD design.
 
 * **ANSYS**
@@ -84,110 +84,20 @@ Topic: **X**
   * Engineering simulation software.
   * Tests crash performance, airflow, heat transfer, and vehicle safety.
   * Helps reduce the need for physical prototypes.
-  * Hardware: Windows/Linux Workstations.
+  * Hardware: Windows, Linux, High-Performance Computing Systems (HPC).
   * Picture: *(ANSYS crash simulation image)*
-  * Image URL: **[INSERT IMAGE URL HERE]**
-  * Source researched: ANSYS is used for crash, aerodynamic, thermal, and performance simulations. 
+  * Image URL: https://i.ytimg.com/vi/EhTO0_ovhnA/maxresdefault.jpg
+  * Source researched: ANSYS is used for crash, aerodynamic, thermal, and performance simulations.
 
 * **Siemens Simcenter**
   * Link: https://plm.sw.siemens.com/en-US/simcenter/
   * Vehicle simulation software.
   * Analyzes durability, battery performance, aerodynamics, and noise.
-  * Helps improve vehicle performance.
-  * Hardware: Windows.
+  * Helps improve vehicle performance before physical testing.
+  * Hardware: Windows, Engineering Workstations, HPC Systems.
   * Picture: *(Simcenter vehicle analysis dashboard)*
-  * Image URL: **[INSERT IMAGE URL HERE]**
-  * Source researched: Simcenter supports durability, CFD, NVH, and electrification analysis. 
-
-* **Altair HyperWorks**
-  * Link: https://altair.com/hyperworks
-  * Advanced engineering simulation platform.
-  * Used for optimization and lightweight vehicle design.
-  * Helps engineers improve efficiency and reduce weight.
-  * Hardware: Windows/Linux.
-  * Picture: *(HyperWorks simulation model)*
-  * Image URL: **[INSERT IMAGE URL HERE]**
-  * Source researched: HyperWorks supports optimization and structural simulation. 
-
-* **OptimumG**
-  * Link: https://optimumg.com
-  * Vehicle dynamics software.
-  * Used to analyze suspension systems and vehicle handling.
-  * Helps improve ride quality and performance.
-  * Hardware: Windows.
-  * Picture: *(Vehicle dynamics graph screenshot)*
-  * Image URL: **[INSERT IMAGE URL HERE]**
-  * Source researched: OptimumG provides vehicle dynamics and suspension modeling tools.
-
-* **Teamcenter**
-  * Link: https://plm.sw.siemens.com/en-US/teamcenter/
-  * Product Lifecycle Management (PLM) software.
-  * Organizes engineering files, designs, revisions, and project data.
-  * Widely used by automotive manufacturers.
-  * Hardware: Windows/Web.
-  * Picture: *(Teamcenter project management interface)*
-  * Image URL: **[INSERT IMAGE URL HERE]**
-  * Source researched: Teamcenter provides lifecycle and engineering data management.
-
-* **ENOVIA**
-  * Link: https://www.3ds.com/products/enovia
-  * PLM software integrated with CATIA.
-  * Helps teams collaborate and manage engineering data.
-  * Supports large automotive projects.
-  * Hardware: Windows/Web.
-  * Picture: *(ENOVIA dashboard screenshot)*
-  * Image URL: **[INSERT IMAGE URL HERE]**
-  * Source researched: ENOVIA is used for automotive PLM and collaboration. 
-
-* **PTC Windchill**
-  * Link: https://www.ptc.com/en/products/windchill
-  * Product data management software.
-  * Tracks design changes and engineering documents.
-  * Used across automotive development teams.
-  * Hardware: Windows/Web.
-  * Picture: *(Windchill interface image)*
-  * Image URL: **[INSERT IMAGE URL HERE]**
-  * Source researched: Windchill is used for automotive PLM and supplier workflows. 
-
-* **DELMIA**
-  * Link: https://www.3ds.com/products/delmia
-  * Manufacturing planning software.
-  * Simulates factory production systems before implementation.
-  * Supports automotive manufacturing operations.
-  * Hardware: Windows.
-  * Picture: *(Automotive production simulation screenshot)*
-  * Image URL: **[INSERT IMAGE URL HERE]**
-  * Source researched: DELMIA supports manufacturing planning and virtual factory simulation. 
-
-* **Mastercam**
-  * Link: https://www.mastercam.com
-  * CAM (Computer-Aided Manufacturing) software.
-  * Creates machining paths used to manufacture automotive parts.
-  * Frequently used throughout the automotive supply chain.
-  * Hardware: Windows.
-  * Picture: *(Mastercam machining simulation image)*
-  * Image URL: **[INSERT IMAGE URL HERE]**
-  * Source researched: Mastercam is widely used in automotive manufacturing.
-
-* **Rhino 3D**
-  * Link: https://www.rhino3d.com
-  * Advanced 3D modeling software.
-  * Useful for concept vehicle design and surface modeling.
-  * Popular among automotive designers.
-  * Hardware: Windows/macOS.
-  * Picture: *(Concept car created in Rhino)*
-  * Image URL: **[INSERT IMAGE URL HERE]**
-  * Source researched: Rhino is used for automotive surfacing and modeling workflows. 
-
-* **AutoCAD**
-  * Link: https://www.autodesk.com/products/autocad
-  * Engineering drafting software.
-  * Creates technical drawings, layouts, and manufacturing blueprints.
-  * Used throughout vehicle development.
-  * Hardware: Windows/macOS.
-  * Picture: *(Automotive drafting example in AutoCAD)*
-  * Image URL: **[INSERT IMAGE URL HERE]**
-  * Source researched: AutoCAD supports automotive drawings and engineering documentation.
+  * Image URL: https://blogs.sw.siemens.com/wp-content/uploads/sites/6/2026/09/Simcenter-Testlab-Transfer-path-analysis-1-1280x768.png
+  * Source researched: Simcenter supports durability, CFD, NVH, and electrification analysis.
 
 ---
 
@@ -195,9 +105,10 @@ Topic: **X**
 
 * Automotive engineering relies heavily on **CAD software** for vehicle design.
 * Engineers use **simulation software** to test safety, aerodynamics, durability, and performance before building real prototypes.
-* **PLM software** helps companies organize and manage large engineering projects.
-* **Manufacturing software** allows factories to plan production and create automotive components efficiently.
-* Modern automotive development depends on software at nearly every stage, from initial design to manufacturing and testing.
+* Software allows engineers to model, analyze, and improve vehicles before they are manufactured.
+* Many automotive software tools support electric vehicle development, battery systems, and future transportation technologies.
+* Modern automotive development depends on software throughout the design, testing, and production process.
+
 
 
 ##### Hardware
