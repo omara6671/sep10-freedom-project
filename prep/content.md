@@ -91,7 +91,7 @@ Topic: **X**
   * Helps reduce the need for physical prototypes.
   * Hardware: Windows, Linux, High-Performance Computing Systems (HPC).
   * Picture:
-        ![ANSYS Simulation](IMAGE_URL_HERE)
+        ![ANSYS Simulation](https://github.com/omara6671/sep10-freedom-project/blob/dea7c43724b0cb130a6dbb6a4efade3653f50732/maxresdefault.jpg)
   * Image URL: https://i.ytimg.com/vi/EhTO0_ovhnA/maxresdefault.jpg
   * Source researched: ANSYS is used for crash, aerodynamic, thermal, and performance simulations.
 
