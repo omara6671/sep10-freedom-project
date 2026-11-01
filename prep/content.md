@@ -35,7 +35,8 @@ Topic: **X**
   * Creates advanced 3D models and vehicle surfaces.
   * Commonly used for designing car bodies and automotive parts.
   * Hardware: Windows Workstations.
-  * Picture: *(CATIA automotive vehicle design interface from Dassault Systèmes website)*
+  * Picture:
+    ![CATIA Automotive Design](IMAGE_URL_HERE)
   * Image URL: https://www.3ds.com/fileadmin/depositary/alliances/CRM_PARTATT/20141200/PPR0000189_1cava_1251_screen.jpg
   * Source researched: CATIA is widely used for full vehicle product development and automotive CAD workflows.
 
@@ -45,7 +46,8 @@ Topic: **X**
   * Helps engineers design complete vehicle assemblies.
   * Supports CAD and CAM workflows.
   * Hardware: Windows Workstations.
-  * Picture: *(NX automotive CAD assembly screenshot from Siemens)*
+  * Picture:
+        ![Siemens NX Interface](IMAGE_URL_HERE)
   * Image URL: https://blogs.sw.siemens.com/wp-content/uploads/sites/2/2025/02/Screenshot-2025-02-24-124701-1-1024x576.png
   * Source researched: Siemens NX supports complex assemblies and automotive manufacturing workflows.
 
@@ -55,7 +57,8 @@ Topic: **X**
   * Allows engineers to create and modify vehicle parts efficiently.
   * Often used for product development and manufacturing preparation.
   * Hardware: Windows.
-  * Picture: *(Creo automotive part modeling image)*
+  * Picture:
+        ![PTC Creo Modeling](IMAGE_URL_HERE)
   * Image URL: https://skillableindia.com/wp-content/uploads/2023/07/image-1024x576.jpg
   * Source researched: Creo is a major automotive engineering CAD platform.
 
@@ -65,7 +68,8 @@ Topic: **X**
   * Used for designing automotive components and prototypes.
   * Supports generative design for lightweight vehicle parts.
   * Hardware: Windows, macOS, Web Browser.
-  * Picture: *(Fusion 360 automotive component rendering)*
+  * Picture:
+        ![Fusion 360 Interface](IMAGE_URL_HERE)
   * Image URL: https://develop3d.com/wp-content/uploads/2019/11/fusion_intro.png
   * Source researched: Fusion 360 is used for automotive drafting and design workflows.
 
@@ -75,7 +79,8 @@ Topic: **X**
   * Allows engineers to collaborate on vehicle designs in real time.
   * Useful for team-based engineering projects.
   * Hardware: ChromeOS, Windows, macOS, Linux, Web Browser.
-  * Picture: *(Onshape collaborative CAD interface)*
+  * Picture:
+        ![Onshape Collaboration](IMAGE_URL_HERE)
   * Image URL: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGBaZYOIiff5OcMYIAFM0HxeRz0C6FsaFrU0-Ortqx270Av-UDUtiYeFw&s=10
   * Source researched: Onshape is known for cloud collaboration and automotive CAD design.
 
@@ -85,7 +90,8 @@ Topic: **X**
   * Tests crash performance, airflow, heat transfer, and vehicle safety.
   * Helps reduce the need for physical prototypes.
   * Hardware: Windows, Linux, High-Performance Computing Systems (HPC).
-  * Picture: *(ANSYS crash simulation image)*
+  * Picture:
+        ![ANSYS Simulation](IMAGE_URL_HERE)
   * Image URL: https://i.ytimg.com/vi/EhTO0_ovhnA/maxresdefault.jpg
   * Source researched: ANSYS is used for crash, aerodynamic, thermal, and performance simulations.
 
@@ -95,7 +101,8 @@ Topic: **X**
   * Analyzes durability, battery performance, aerodynamics, and noise.
   * Helps improve vehicle performance before physical testing.
   * Hardware: Windows, Engineering Workstations, HPC Systems.
-  * Picture: *(Simcenter vehicle analysis dashboard)*
+  * Picture:
+      ![SiemensDashobard](IMAGE_URL_HERE)
   * Image URL: https://blogs.sw.siemens.com/wp-content/uploads/sites/6/2026/09/Simcenter-Testlab-Transfer-path-analysis-1-1280x768.png
   * Source researched: Simcenter supports durability, CFD, NVH, and electrification analysis.
 
