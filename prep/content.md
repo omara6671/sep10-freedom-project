@@ -69,7 +69,7 @@ Topic: **X**
   * Supports generative design for lightweight vehicle parts.
   * Hardware: Windows, macOS, Web Browser.
   * Picture:
-        ![Fusion 360 Interface](IMAGE_URL_HERE)
+        ![Fusion 360 Interface](https://github.com/omara6671/sep10-freedom-project/blob/12d7669e80ea1faf11184de4057a8dacd8a283c6/fusion_intro.png)
   * Image URL: https://develop3d.com/wp-content/uploads/2019/11/fusion_intro.png
   * Source researched: Fusion 360 is used for automotive drafting and design workflows.
 
