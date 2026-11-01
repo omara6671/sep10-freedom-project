@@ -102,7 +102,7 @@ Topic: **X**
   * Helps improve vehicle performance before physical testing.
   * Hardware: Windows, Engineering Workstations, HPC Systems.
   * Picture:
-      ![SiemensDashobard](IMAGE_URL_HERE)
+      ![SiemensDashobard](https://github.com/omara6671/sep10-freedom-project/blob/dc0df715016c0fdbf7235e1a2d54f5de438bc80d/Simcenter-Testlab-Transfer-path-analysis-1-1280x768.png)
   * Image URL: https://blogs.sw.siemens.com/wp-content/uploads/sites/6/2026/09/Simcenter-Testlab-Transfer-path-analysis-1-1280x768.png
   * Source researched: Simcenter supports durability, CFD, NVH, and electrification analysis.
 
