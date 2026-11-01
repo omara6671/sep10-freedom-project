@@ -47,7 +47,7 @@ Topic: **X**
   * Supports CAD and CAM workflows.
   * Hardware: Windows Workstations.
   * Picture:
-        ![Siemens NX Interface](IMAGE_URL_HERE)
+        ![Siemens NX Interface](https://github.com/omara6671/sep10-freedom-project/blob/580b114b1e990670372b67d655663b2fafb4fa7c/Screenshot-2025-02-24-124701-1-1024x576.png)
   * Image URL: https://blogs.sw.siemens.com/wp-content/uploads/sites/2/2025/02/Screenshot-2025-02-24-124701-1-1024x576.png
   * Source researched: Siemens NX supports complex assemblies and automotive manufacturing workflows.
 
