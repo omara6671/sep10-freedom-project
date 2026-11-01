@@ -36,7 +36,7 @@ Topic: **X**
   * Commonly used for designing car bodies and automotive parts.
   * Hardware: Windows Workstations.
   * Picture:
-    ![CATIA Automotive Design](IMAGE_URL_HERE)
+    ![CATIA Automotive Design](https://github.com/omara6671/sep10-freedom-project/blob/7b6ff10fea3d4e15cd58f694c9956af72e3f225e/PPR0000189_1cava_1251_screen.jpg)
   * Image URL: https://www.3ds.com/fileadmin/depositary/alliances/CRM_PARTATT/20141200/PPR0000189_1cava_1251_screen.jpg
   * Source researched: CATIA is widely used for full vehicle product development and automotive CAD workflows.
 
