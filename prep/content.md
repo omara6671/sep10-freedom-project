@@ -152,6 +152,8 @@ Online stores like this help ordinary people:
 * Learn and gain Automative parts
 * Be able to improve existing Automative technology
 
+Image:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkyhQ5AuAgOjhTxfZeFJZOPCmwAvUowp8B0C0uXtm1e2eAhx8c4luDaJY&s=10
+
   ---
 
 
