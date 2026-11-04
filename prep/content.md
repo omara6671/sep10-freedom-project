@@ -126,6 +126,37 @@ Topic: **Automotive Engineering**
   * Detail
   * [image text](image URL)
 
+ Searches searched:
+
+ * Current Existing Automative hardware
+ * Automative Hardware technology
+ * Car design physical models
+ * Currnt physical Automative technologies
+
+---
+
+## Relaxing RoadMate 6.86" Dash Cam: What is does
+
+* Monitors the Rear in 1080P: Includes a Full HD backup camera that mounts inside or outside the vehicle.
+* Mirrors Smartphones Wirelessly: Supports seamless wireless Apple CarPlay and Android Auto connectivity.
+* Hosts a Sharp 6.86" Display: Features a vibrant, responsive HD touchscreen to control apps and menus.
+* Provides GPS Navigation: Pulls map routes directly from your phone's navigation apps onto the dashboard.
+* Streams Audio Multi-ways: Transmits sound to car speakers via Bluetooth, an AUX cord, or built-in FM transmission.
+* Secures 24-Hour Parking Surveillance: Hibernates when parked and wakes up to record if it detects motion or impact.
+* Includes G-Sensor Tech: Automatically detects collisions and locks down the footage so it cannot be overwritten.
+* Ships with 64GB Storage: Includes a dedicated Rexing high-speed SD card right out of the box.
+* Supports Hands-free Commands: Minimizes driving distractions by enabling voice control for calls and messaging.
+### Can be found in target + can be ordered in stores such as https://stores.advanceautoparts.com/ny
+
+Online stores like this help ordinary people:
+* Learn and gain Automative parts
+* Be able to improve existing Automative technology
+
+  ---
+
+
+
+
 ## Part B: possible future technology
 * Idea
   * Detail
