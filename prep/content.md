@@ -149,8 +149,7 @@ Topic: **Automotive Engineering**
   * Improves production speed, accuracy, consistency, and worker safety.
   * Commonly used by companies such as Tesla, Ford, Toyota, and BMW.
   * Availability: Available for purchase directly from industrial robotics manufacturers such as FANUC and other automation suppliers. Typically purchased by factories and manufacturing facilities rather than individual consumers.
-   * Picture:
-     
+   * Picture:   
     ![Industrial Robotic Arms](https://github.com/omara6671/sep10-freedom-project/blob/d0e211b1cbca4dfe64e5756601e9cda0fa310846/images%20(2).jpeg)
   * Image URL: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0-9ZwZCkoPsQgR5znbhxxxdHqQxf496Hd2jaB9j3RbHn01JXdilwuNe27&s=10
   * Source researched: Industrial robots are a major part of modern automotive manufacturing and assembly lines.
@@ -172,8 +171,7 @@ Topic: **Automotive Engineering**
   * Used in adaptive cruise control, collision avoidance, and blind-spot monitoring.
   * Performs well in poor weather conditions such as rain and fog.
   * Availability: Commonly available through automotive manufacturers and suppliers and installed in many modern vehicles.
-   * Picture:
-     
+   * Picture:   
     ![Automotive Radar Sensor](https://github.com/omara6671/sep10-freedom-project/blob/f8c0f1d7047ec8aa42e3fd2f4927ecebb1cb3fe6/bbm_front_corner_radar_generation7_video_thumbnail.jpg)
   * Image URL: https://www.bosch-mobility.com/media/global/solutions/passenger-cars-and-light-commercial-vehicles/driver-assistance-systems/multi-camera-system/front-radar-plus/bbm_front_corner_radar_generation7_video_thumbnail.jpg
   * Source researched: Radar sensors are essential hardware for modern vehicle safety systems.
@@ -184,8 +182,7 @@ Topic: **Automotive Engineering**
   * One of the most important hardware components in EV engineering.
   * Engineers focus on improving battery range, charging speed, performance, and safety.
   * Availability: Available through electric vehicle manufacturers and battery suppliers. Primarily designed for vehicle production and engineering applications.
-   * Picture:
-     
+   * Picture:   
     ![Electric Vehicle Battery Pack](https://github.com/omara6671/sep10-freedom-project/blob/722b7c81e6d859c819acfd639f0b5a22a0b9b028/images%20(3).jpeg)
   * Image URL: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeUZHJ8btThbsd03V6Pee1WlIhmOPgvBQIjYGCcESfq2CbwTrFq0N9Qpk&s=10
   * Source researched: Battery technology plays a critical role in electric vehicle development.
@@ -196,8 +193,7 @@ Topic: **Automotive Engineering**
   * Helps engineers improve battery performance before vehicles are released.
   * Frequently used in EV research and development laboratories.
   * Availability: Available through engineering equipment companies and laboratory testing suppliers for professional and industrial use.
-   * Picture:
-     
+   * Picture:     
     ![Battery Testing System](https://github.com/omara6671/sep10-freedom-project/blob/87bb4ea04e7e7f630b488b9944e0bdd37f145cba/images%20(4).jpeg)
   * Image URL: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShGwow0t9b2Ln0hzjK87W9mFY2PSPmUkb6wR6jBhwH0w&s
   * Source researched: Battery testing hardware helps ensure electric vehicle batteries meet safety and performance standards.
@@ -208,8 +204,7 @@ Topic: **Automotive Engineering**
   * Simulates real driving conditions while keeping the vehicle stationary.
   * Used to evaluate horsepower, torque, fuel efficiency, and emissions.
   * Availability: Available from automotive testing equipment manufacturers and primarily used by engineering companies, manufacturers, and research facilities.
-  * Picture:
-    
+  * Picture:   
     ![Vehicle Dynamometer](https://github.com/omara6671/sep10-freedom-project/blob/1dcb6a51871d4eed0a24e13ccae71c0e0936f0f5/images%20(6).jpeg)
   * Image URL: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2dkpFV3hQJlyjg8dU8wSUAyJCLz4fSL40weaRINwy8Aazqfc-xMNMKFA&s=10
   * Source researched: Dynamometers are commonly used during automotive testing and development.
@@ -220,8 +215,7 @@ Topic: **Automotive Engineering**
   * Allows engineers to observe airflow around a vehicle.
   * Helps improve efficiency, stability, and fuel economy while reducing drag.
   * Availability: Typically built and operated by automotive companies, research organizations, universities, and testing centers rather than sold as consumer products.
-  * Picture:
-    
+  * Picture:   
     ![Wind Tunnel Testing](https://github.com/omara6671/sep10-freedom-project/blob/75c21450fce956fcc6592a68160d8423c1002fac/1667831781-wind-tunnel.avif)
   * Image URL: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2dkpFV3hQJlyjg8dU8wSUAyJCLz4fSL40weaRINwy8Aazqfc-xMNMKFA&s=10
   * Source researched: Wind tunnels are important tools for aerodynamic vehicle design and testing.
@@ -232,12 +226,10 @@ Topic: **Automotive Engineering**
   * Reads fault codes and identifies mechanical or electrical problems.
   * Used by engineers and technicians for troubleshooting and performance analysis.
   * Availability: Widely available through automotive tool companies and online retailers for both professional technicians and advanced vehicle diagnostics.
-  * Picture:
-    
+  * Picture:   
     ![Vehicle Diagnostic Scanner](https://github.com/omara6671/sep10-freedom-project/blob/19a1e6a3f38e60c2942f8517e6cca9739b5c1316/images%20(7).jpeg)
   * Image URL: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Y_ax-z4ubVVC7Zb54d-h_OETtxqvqHsYF8G0_8XSlMUJgbswP6EnyKbh&s=10
   * Source researched: Diagnostic scanners help identify and analyze vehicle system issues.
-
 ---
 
 ### Key Findings
