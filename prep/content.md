@@ -10,6 +10,7 @@ Topic: **Automotive Engineering**
 ## Part A: existing technology
 
 ##### Software
+---
 
 ### Searches Used
 
@@ -118,46 +119,131 @@ Topic: **Automotive Engineering**
 * Many automotive software tools support electric vehicle development, battery systems, and future transportation technologies.
 * Modern automotive development depends on software throughout the design, testing, and production process.
 
-
-
-
+---
 ##### Hardware
-* Tech
-  * Detail
-  * [image text](image URL)
+---
 
- Searches searched:
+### Searches Used
 
- * Current Existing Automative hardware
- * Automative Hardware technology
- * Car design physical models
- * Currnt physical Automative technologies
+* "automotive engineering hardware"
+* "hardware used by automotive engineers"
+* "automotive manufacturing robots"
+* "electric vehicle battery technology"
+* "vehicle testing equipment"
+* "automotive engineering tools"
+* "LiDAR sensors automotive"
+* "automotive radar systems"
+* "automotive safety testing equipment"
+* "automotive factory technology"
+* "automotive engineering devices"
+* "EV battery testing systems"
+* "wind tunnel automotive testing"
+* "automotive diagnostic hardware"
+* "robotics in automotive engineering"
 
 ---
 
-## Relaxing RoadMate 6.86" Dash Cam: What is does
+* **Industrial Robotic Arms**
+  * Link: https://www.fanucamerica.com
+  * Used in vehicle manufacturing to weld, paint, assemble, and move vehicle parts.
+  * Improves production speed, accuracy, consistency, and worker safety.
+  * Commonly used by companies such as Tesla, Ford, Toyota, and BMW.
+  * Availability: Available for purchase directly from industrial robotics manufacturers such as FANUC and other automation suppliers. Typically purchased by factories and manufacturing facilities rather than individual consumers.
+  * Picture:
+    IMAGE_URL_HERE
+  * Image URL: IMAGE_URL_HERE
+  * Source researched: Industrial robots are a major part of modern automotive manufacturing and assembly lines.
 
-* Monitors the Rear in 1080P: Includes a Full HD backup camera that mounts inside or outside the vehicle.
-* Mirrors Smartphones Wirelessly: Supports seamless wireless Apple CarPlay and Android Auto connectivity.
-* Hosts a Sharp 6.86" Display: Features a vibrant, responsive HD touchscreen to control apps and menus.
-* Provides GPS Navigation: Pulls map routes directly from your phone's navigation apps onto the dashboard.
-* Streams Audio Multi-ways: Transmits sound to car speakers via Bluetooth, an AUX cord, or built-in FM transmission.
-* Secures 24-Hour Parking Surveillance: Hibernates when parked and wakes up to record if it detects motion or impact.
-* Includes G-Sensor Tech: Automatically detects collisions and locks down the footage so it cannot be overwritten.
-* Ships with 64GB Storage: Includes a dedicated Rexing high-speed SD card right out of the box.
-* Supports Hands-free Commands: Minimizes driving distractions by enabling voice control for calls and messaging.
-### Can be found in target + can be ordered in stores such as https://stores.advanceautoparts.com/ny
+* **LiDAR Sensors**
+  * Link: https://velodynelidar.com
+  * Uses laser beams to create a detailed 3D map of a vehicle's surroundings.
+  * Helps autonomous and semi-autonomous vehicles detect roads, objects, and pedestrians.
+  * Important for self-driving technology and advanced safety systems.
+  * Availability: Available through LiDAR manufacturers and automotive suppliers for research, testing, and autonomous vehicle development.
+  * Picture:
+    IMAGE_URL_HERE
+  * Image URL: IMAGE_URL_HERE
+  * Source researched: LiDAR is widely used in autonomous vehicle testing and development.
 
-Online stores like this help ordinary people:
-* Learn and gain Automative parts
-* Be able to improve existing Automative technology
+* **Automotive Radar Sensors**
+  * Link: https://www.bosch.com
+  * Detects nearby vehicles, obstacles, and objects.
+  * Used in adaptive cruise control, collision avoidance, and blind-spot monitoring.
+  * Performs well in poor weather conditions such as rain and fog.
+  * Availability: Commonly available through automotive manufacturers and suppliers and installed in many modern vehicles.
+  * Picture:
+    IMAGE_URL_HERE
+  * Image URL: IMAGE_URL_HERE
+  * Source researched: Radar sensors are essential hardware for modern vehicle safety systems.
 
-Image:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkyhQ5AuAgOjhTxfZeFJZOPCmwAvUowp8B0C0uXtm1e2eAhx8c4luDaJY&s=10
+* **Electric Vehicle Battery Packs**
+  * Link: https://www.tesla.com
+  * Stores electrical energy used to power electric vehicles.
+  * One of the most important hardware components in EV engineering.
+  * Engineers focus on improving battery range, charging speed, performance, and safety.
+  * Availability: Available through electric vehicle manufacturers and battery suppliers. Primarily designed for vehicle production and engineering applications.
+  * Picture:
+    IMAGE_URL_HERE
+  * Image URL: IMAGE_URL_HERE
+  * Source researched: Battery technology plays a critical role in electric vehicle development.
 
-  ---
+* **Battery Testing Systems**
+  * Link: https://www.keysight.com
+  * Used to test battery durability, charging cycles, efficiency, and safety.
+  * Helps engineers improve battery performance before vehicles are released.
+  * Frequently used in EV research and development laboratories.
+  * Availability: Available through engineering equipment companies and laboratory testing suppliers for professional and industrial use.
+  * Picture:
+    IMAGE_URL_HERE
+  * Image URL: IMAGE_URL_HERE
+  * Source researched: Battery testing hardware helps ensure electric vehicle batteries meet safety and performance standards.
 
+* **Vehicle Dynamometers**
+  * Link: https://www.horiba.com
+  * Testing equipment that measures vehicle and engine performance.
+  * Simulates real driving conditions while keeping the vehicle stationary.
+  * Used to evaluate horsepower, torque, fuel efficiency, and emissions.
+  * Availability: Available from automotive testing equipment manufacturers and primarily used by engineering companies, manufacturers, and research facilities.
+  * Picture:
+    IMAGE_URL_HERE
+  * Image URL: IMAGE_URL_HERE
+  * Source researched: Dynamometers are commonly used during automotive testing and development.
 
+* **Wind Tunnels**
+  * Link: https://www.nasa.gov
+  * Used to study vehicle aerodynamics.
+  * Allows engineers to observe airflow around a vehicle.
+  * Helps improve efficiency, stability, and fuel economy while reducing drag.
+  * Availability: Typically built and operated by automotive companies, research organizations, universities, and testing centers rather than sold as consumer products.
+  * Picture:
+    IMAGE_URL_HERE
+  * Image URL: IMAGE_URL_HERE
+  * Source researched: Wind tunnels are important tools for aerodynamic vehicle design and testing.
 
+* **Vehicle Diagnostic Scanners**
+  * Link: https://www.snapon.com
+  * Connects to a vehicle's onboard computer system.
+  * Reads fault codes and identifies mechanical or electrical problems.
+  * Used by engineers and technicians for troubleshooting and performance analysis.
+  * Availability: Widely available through automotive tool companies and online retailers for both professional technicians and advanced vehicle diagnostics.
+  * Picture:
+    IMAGE_URL_HERE
+  * Image URL: IMAGE_URL_HERE
+  * Source researched: Diagnostic scanners help identify and analyze vehicle system issues.
+
+---
+
+### Key Findings
+
+* Automotive engineering relies on a combination of manufacturing, testing, safety, and diagnostic hardware.
+* Robotics and automation technologies are essential for modern vehicle production because they improve efficiency, precision, safety, and manufacturing consistency.
+* Sensors such as LiDAR and radar help improve vehicle safety and support autonomous and driver-assistance technologies.
+* Battery technology has become increasingly important because of the rapid growth of electric vehicles and sustainable transportation.
+* Testing equipment such as dynamometers, battery testing systems, and wind tunnels allows engineers to improve vehicle performance, efficiency, reliability, and safety before production.
+* Modern automotive engineering combines mechanical systems, electronics, sensors, robotics, and advanced testing equipment to develop next-generation vehicles.
+* Hardware and software work together throughout the entire automotive engineering process, from vehicle design and testing to manufacturing and real-world operation.
+
+---
 
 ## Part B: possible future technology
 * Idea
