@@ -198,7 +198,7 @@ Topic: **Automotive Engineering**
   * Availability: Available through engineering equipment companies and laboratory testing suppliers for professional and industrial use.
    * Picture:
      
-    ![Battery Testing System](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShGwow0t9b2Ln0hzjK87W9mFY2PSPmUkb6wR6jBhwH0w&s)
+    ![Battery Testing System](https://github.com/omara6671/sep10-freedom-project/blob/87bb4ea04e7e7f630b488b9944e0bdd37f145cba/images%20(4).jpeg)
   * Image URL: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShGwow0t9b2Ln0hzjK87W9mFY2PSPmUkb6wR6jBhwH0w&s
   * Source researched: Battery testing hardware helps ensure electric vehicle batteries meet safety and performance standards.
 
