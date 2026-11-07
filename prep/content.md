@@ -150,7 +150,7 @@ Topic: **Automotive Engineering**
   * Commonly used by companies such as Tesla, Ford, Toyota, and BMW.
   * Availability: Available for purchase directly from industrial robotics manufacturers such as FANUC and other automation suppliers. Typically purchased by factories and manufacturing facilities rather than individual consumers.
    * Picture:
-    ![Industrial Robotic Arms](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0-9ZwZCkoPsQgR5znbhxxxdHqQxf496Hd2jaB9j3RbHn01JXdilwuNe27&s=10)
+    ![Industrial Robotic Arms](https://github.com/omara6671/sep10-freedom-project/blob/d0e211b1cbca4dfe64e5756601e9cda0fa310846/images%20(2).jpeg)
   * Image URL: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0-9ZwZCkoPsQgR5znbhxxxdHqQxf496Hd2jaB9j3RbHn01JXdilwuNe27&s=10
   * Source researched: Industrial robots are a major part of modern automotive manufacturing and assembly lines.
 
