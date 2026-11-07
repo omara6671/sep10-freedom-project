@@ -210,7 +210,7 @@ Topic: **Automotive Engineering**
   * Availability: Available from automotive testing equipment manufacturers and primarily used by engineering companies, manufacturers, and research facilities.
   * Picture:
     
-    ![Vehicle Dynamometer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2dkpFV3hQJlyjg8dU8wSUAyJCLz4fSL40weaRINwy8Aazqfc-xMNMKFA&s=10)
+    ![Vehicle Dynamometer](https://github.com/omara6671/sep10-freedom-project/blob/1dcb6a51871d4eed0a24e13ccae71c0e0936f0f5/images%20(6).jpeg)
   * Image URL: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2dkpFV3hQJlyjg8dU8wSUAyJCLz4fSL40weaRINwy8Aazqfc-xMNMKFA&s=10
   * Source researched: Dynamometers are commonly used during automotive testing and development.
 
