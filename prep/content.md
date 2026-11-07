@@ -186,7 +186,7 @@ Topic: **Automotive Engineering**
   * Availability: Available through electric vehicle manufacturers and battery suppliers. Primarily designed for vehicle production and engineering applications.
    * Picture:
      
-    ![Electric Vehicle Battery Pack](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeUZHJ8btThbsd03V6Pee1WlIhmOPgvBQIjYGCcESfq2CbwTrFq0N9Qpk&s=10)
+    ![Electric Vehicle Battery Pack](https://github.com/omara6671/sep10-freedom-project/blob/722b7c81e6d859c819acfd639f0b5a22a0b9b028/images%20(3).jpeg)
   * Image URL: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeUZHJ8btThbsd03V6Pee1WlIhmOPgvBQIjYGCcESfq2CbwTrFq0N9Qpk&s=10
   * Source researched: Battery technology plays a critical role in electric vehicle development.
 
