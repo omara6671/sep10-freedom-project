@@ -174,7 +174,7 @@ Topic: **Automotive Engineering**
   * Availability: Commonly available through automotive manufacturers and suppliers and installed in many modern vehicles.
    * Picture:
      
-    ![Automotive Radar Sensor](https://www.bosch-mobility.com/media/global/solutions/passenger-cars-and-light-commercial-vehicles/driver-assistance-systems/multi-camera-system/front-radar-plus/bbm_front_corner_radar_generation7_video_thumbnail.jpg)
+    ![Automotive Radar Sensor](https://github.com/omara6671/sep10-freedom-project/blob/f8c0f1d7047ec8aa42e3fd2f4927ecebb1cb3fe6/bbm_front_corner_radar_generation7_video_thumbnail.jpg)
   * Image URL: https://www.bosch-mobility.com/media/global/solutions/passenger-cars-and-light-commercial-vehicles/driver-assistance-systems/multi-camera-system/front-radar-plus/bbm_front_corner_radar_generation7_video_thumbnail.jpg
   * Source researched: Radar sensors are essential hardware for modern vehicle safety systems.
 
