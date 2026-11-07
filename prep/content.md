@@ -222,7 +222,7 @@ Topic: **Automotive Engineering**
   * Availability: Typically built and operated by automotive companies, research organizations, universities, and testing centers rather than sold as consumer products.
   * Picture:
     
-    ![Wind Tunnel Testing](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2dkpFV3hQJlyjg8dU8wSUAyJCLz4fSL40weaRINwy8Aazqfc-xMNMKFA&s=10)
+    ![Wind Tunnel Testing](https://github.com/omara6671/sep10-freedom-project/blob/75c21450fce956fcc6592a68160d8423c1002fac/1667831781-wind-tunnel.avif)
   * Image URL: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2dkpFV3hQJlyjg8dU8wSUAyJCLz4fSL40weaRINwy8Aazqfc-xMNMKFA&s=10
   * Source researched: Wind tunnels are important tools for aerodynamic vehicle design and testing.
 
