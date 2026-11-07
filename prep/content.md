@@ -120,6 +120,23 @@ Topic: **Automotive Engineering**
 * Modern automotive development depends on software throughout the design, testing, and production process.
 
 ---
+### What is CAD Software?
+
+* CAD stands for **Computer-Aided Design**.
+* CAD software allows automotive engineers to create, edit, and test digital 2D and 3D vehicle models before physical prototypes are built.
+* Programs such as CATIA, Siemens NX, Creo, Fusion 360, and Onshape help engineers design vehicle bodies, engines, frames, battery systems, and individual automotive components with high precision.
+* Using CAD software reduces development costs, improves accuracy, speeds up production, and allows engineers to identify design problems early in the development process.
+
+### How These Software Tools Are Used
+
+* The software and websites listed above are professional engineering tools used throughout the automotive industry.
+* Automotive engineers use these applications to design vehicles, create 3D models, run simulations, test safety systems, analyze aerodynamics, evaluate battery performance, and improve overall vehicle efficiency.
+* Programs such as CATIA, Siemens NX, Creo, Fusion 360, and Onshape allow engineers to digitally design and modify vehicle components before physical prototypes are built.
+* Simulation tools such as ANSYS and Siemens Simcenter help engineers investigate real-world conditions by testing crash safety, airflow, durability, noise, temperature, and vehicle performance through virtual simulations.
+* The links included above provide access to the official websites for each software platform, allowing users to further investigate the tools that automotive engineers currently use in vehicle development.
+* These applications help companies save time, reduce costs, improve accuracy, identify design problems earlier, and develop safer and more advanced vehicles before manufacturing begins.
+
+---
 ##### Hardware
 ---
 
