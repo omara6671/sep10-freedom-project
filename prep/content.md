@@ -162,7 +162,7 @@ Topic: **Automotive Engineering**
   * Important for self-driving technology and advanced safety systems.
   * Availability: Available through LiDAR manufacturers and automotive suppliers for research, testing, and autonomous vehicle development.
   * Picture:
-    ![LiDAR Sensor](https://www.datocms-assets.com/53444/1670667732-velodyne-lidar-mounted-on-the-dewesoft-test-vehicle.jpg?auto=format&fit=max&w=1024)
+    ![LiDAR Sensor](https://github.com/omara6671/sep10-freedom-project/blob/732ae8512529e1d1f616a1ea6a9c85236ea01251/1670667732-velodyne-lidar-mounted-on-the-dewesoft-test-vehicle.avif)
   * Image URL: https://www.datocms-assets.com/53444/1670667732-velodyne-lidar-mounted-on-the-dewesoft-test-vehicle.jpg?auto=format&fit=max&w=1024
   * Source researched: LiDAR is widely used in autonomous vehicle testing and development.
 
