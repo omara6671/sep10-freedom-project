@@ -234,7 +234,7 @@ Topic: **Automotive Engineering**
   * Availability: Widely available through automotive tool companies and online retailers for both professional technicians and advanced vehicle diagnostics.
   * Picture:
     
-    ![Vehicle Diagnostic Scanner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Y_ax-z4ubVVC7Zb54d-h_OETtxqvqHsYF8G0_8XSlMUJgbswP6EnyKbh&s=10)
+    ![Vehicle Diagnostic Scanner](https://github.com/omara6671/sep10-freedom-project/blob/19a1e6a3f38e60c2942f8517e6cca9739b5c1316/images%20(7).jpeg)
   * Image URL: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Y_ax-z4ubVVC7Zb54d-h_OETtxqvqHsYF8G0_8XSlMUJgbswP6EnyKbh&s=10
   * Source researched: Diagnostic scanners help identify and analyze vehicle system issues.
 
