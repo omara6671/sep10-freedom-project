@@ -14,127 +14,162 @@ Topic: **Automotive Engineering**
 
 ### Searches Used
 
-* "automotive engineering software"
-* "automotive engineering programs"
-* "automotive design software"
-* "automotive CAD software"
-* "automotive simulation software"
-* "automotive manufacturing software"
-* "vehicle design software"
-* "automotive engineering applications"
-* "software used by automotive engineers"
-* "automotive product lifecycle management software"
-* "automotive CAE software"
-* "vehicle dynamics software"
-* "automotive factory software"
-* "electric vehicle engineering software"
-* "automotive industry engineering software"
+- "automotive engineering software"
+
+- "automotive engineering programs"
+
+- "automotive design software"
+
+- "automotive CAD software"
+
+- "automotive simulation software"
+
+- "automotive manufacturing software"
+
+- "vehicle design software"
+
+- "automotive engineering applications"
+
+- "software used by automotive engineers"
+
+- "automotive product lifecycle management software"
+
+- "automotive CAE software"
+
+- "vehicle dynamics software"
+
+- "automotive factory software"
+
+- "electric vehicle engineering software"
+
+- "automotive industry engineering software"
+
 
 ---
 
-* **CATIA**
-  * Link: https://www.3ds.com/products/catia
-  * Used by many automotive manufacturers for vehicle and component design.
-  * Creates advanced 3D models and vehicle surfaces.
-  * Commonly used for designing car bodies and automotive parts.
-  * Hardware: Windows Workstations.
-  * Picture:
-    ![CATIA Automotive Design](https://github.com/omara6671/sep10-freedom-project/blob/7b6ff10fea3d4e15cd58f694c9956af72e3f225e/PPR0000189_1cava_1251_screen.jpg)
-  * Image URL: https://www.3ds.com/fileadmin/depositary/alliances/CRM_PARTATT/20141200/PPR0000189_1cava_1251_screen.jpg
-  * Source researched: CATIA is widely used for full vehicle product development and automotive CAD workflows.
+### Organized by Timeline: Evolution of Software Technologies
 
-* **Siemens NX**
-  * Link: https://plm.sw.siemens.com/en-US/nx/
-  * Used for vehicle design, engineering, manufacturing, and simulation.
-  * Helps engineers design complete vehicle assemblies.
-  * Supports CAD and CAM workflows.
-  * Hardware: Windows Workstations.
-  * Picture:
-        ![Siemens NX Interface](https://github.com/omara6671/sep10-freedom-project/blob/580b114b1e990670372b67d655663b2fafb4fa7c/Screenshot-2025-02-24-124701-1-1024x576.png)
-  * Image URL: https://blogs.sw.siemens.com/wp-content/uploads/sites/2/2025/02/Screenshot-2025-02-24-124701-1-1024x576.png
-  * Source researched: Siemens NX supports complex assemblies and automotive manufacturing workflows.
+- **Early Foundations**
+  - **CATIA**
+    * Link: https://www.3ds.com/products/catia
+    * Used by many automotive manufacturers for vehicle and component design.
+    * Creates advanced 3D models and vehicle surfaces.
+    * Commonly used for designing car bodies and automotive parts.
+    * Hardware: Windows Workstations.
+    * Picture:
+      ![CATIA Automotive Design](https://github.com/omara6671/sep10-freedom-project/blob/7b6ff10fea3d4e15cd58f694c9956af72e3f225e/PPR0000189_1cava_1251_screen.jpg)
+    * Image URL: https://www.3ds.com/fileadmin/depositary/alliances/CRM_PARTATT/20141200/PPR0000189_1cava_1251_screen.jpg
+    * Source researched: CATIA is widely used for full vehicle product development and automotive CAD workflows.
 
-* **PTC Creo**
-  * Link: https://www.ptc.com/en/products/creo
-  * Parametric CAD software.
-  * Allows engineers to create and modify vehicle parts efficiently.
-  * Often used for product development and manufacturing preparation.
-  * Hardware: Windows.
-  * Picture:
-        ![PTC Creo Modeling](https://github.com/omara6671/sep10-freedom-project/blob/af9e130accd573f2bb1df9b7a4bc93f1457852d9/image-1024x576.jpg)
-  * Image URL: https://skillableindia.com/wp-content/uploads/2023/07/image-1024x576.jpg
-  * Source researched: Creo is a major automotive engineering CAD platform.
+- **Mid-Era Development**
+  - **Siemens NX**
+    * Link: https://plm.sw.siemens.com/en-US/nx/
+    * Used for vehicle design, engineering, manufacturing, and simulation.
+    * Helps engineers design complete vehicle assemblies.
+    * Supports CAD and CAM workflows.
+    * Hardware: Windows Workstations.
+    * Picture:
+      ![Siemens NX Interface](https://github.com/omara6671/sep10-freedom-project/blob/580b114b1e990670372b67d655663b2fafb4fa7c/Screenshot-2025-02-24-124701-1-1024x576.png)
+    * Image URL: https://blogs.sw.siemens.com/wp-content/uploads/sites/2/2025/02/Screenshot-2025-02-24-124701-1-1024x576.png
+    * Source researched: Siemens NX supports complex assemblies and automotive manufacturing workflows.
 
-* **Autodesk Fusion 360**
-  * Link: https://www.autodesk.com/products/fusion-360
-  * Cloud-based CAD software.
-  * Used for designing automotive components and prototypes.
-  * Supports generative design for lightweight vehicle parts.
-  * Hardware: Windows, macOS, Web Browser.
-  * Picture:
-        ![Fusion 360 Interface](https://github.com/omara6671/sep10-freedom-project/blob/12d7669e80ea1faf11184de4057a8dacd8a283c6/fusion_intro.png)
-  * Image URL: https://develop3d.com/wp-content/uploads/2019/11/fusion_intro.png
-  * Source researched: Fusion 360 is used for automotive drafting and design workflows.
+  - **PTC Creo**
+    * Link: https://www.ptc.com/en/products/creo
+    * Parametric CAD software.
+    * Allows engineers to create and modify vehicle parts efficiently.
+    * Often used for product development and manufacturing preparation.
+    * Hardware: Windows.
+    * Picture:
+      ![PTC Creo Modeling](https://github.com/omara6671/sep10-freedom-project/blob/af9e130accd573f2bb1df9b7a4bc93f1457852d9/image-1024x576.jpg)
+    * Image URL: https://skillableindia.com/wp-content/uploads/2023/07/image-1024x576.jpg
+    * Source researched: Creo is a major automotive engineering CAD platform.
 
-* **Onshape**
-  * Link: https://www.onshape.com
-  * Browser-based CAD platform.
-  * Allows engineers to collaborate on vehicle designs in real time.
-  * Useful for team-based engineering projects.
-  * Hardware: ChromeOS, Windows, macOS, Linux, Web Browser.
-  * Picture:
-        ![Onshape Collaboration](https://github.com/omara6671/sep10-freedom-project/blob/a51585765b63756b0078c476e9df32bee740ceed/images%20(1).jpeg)
-  * Image URL: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGBaZYOIiff5OcMYIAFM0HxeRz0C6FsaFrU0-Ortqx270Av-UDUtiYeFw&s=10
-  * Source researched: Onshape is known for cloud collaboration and automotive CAD design.
+- **Modern Era**
+  - **Autodesk Fusion 360**
+    * Link: https://www.autodesk.com/products/fusion-360
+    * Cloud-based CAD software.
+    * Used for designing automotive components and prototypes.
+    * Supports generative design for lightweight vehicle parts.
+    * Hardware: Windows, macOS, Web Browser.
+    * Picture:
+      ![Fusion 360 Interface](https://github.com/omara6671/sep10-freedom-project/blob/12d7669e80ea1faf11184de4057a8dacd8a283c6/fusion_intro.png)
+    * Image URL: https://develop3d.com/wp-content/uploads/2019/11/fusion_intro.png
+    * Source researched: Fusion 360 is used for automotive drafting and design workflows.
 
-* **ANSYS**
-  * Link: https://www.ansys.com
-  * Engineering simulation software.
-  * Tests crash performance, airflow, heat transfer, and vehicle safety.
-  * Helps reduce the need for physical prototypes.
-  * Hardware: Windows, Linux, High-Performance Computing Systems (HPC).
-  * Picture:
-        ![ANSYS Simulation](https://github.com/omara6671/sep10-freedom-project/blob/dea7c43724b0cb130a6dbb6a4efade3653f50732/maxresdefault.jpg)
-  * Image URL: https://i.ytimg.com/vi/EhTO0_ovhnA/maxresdefault.jpg
-  * Source researched: ANSYS is used for crash, aerodynamic, thermal, and performance simulations.
+  - **Onshape**
+    * Link: https://www.onshape.com
+    * Browser-based CAD platform.
+    * Allows engineers to collaborate on vehicle designs in real time.
+    * Useful for team-based engineering projects.
+    * Hardware: ChromeOS, Windows, macOS, Linux, Web Browser.
+    * Picture:
+      ![Onshape Collaboration](https://github.com/omara6671/sep10-freedom-project/blob/a51585765b63756b0078c476e9df32bee740ceed/images%20(1).jpeg)
+    * Image URL: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGBaZYOIiff5OcMYIAFM0HxeRz0C6FsaFrU0-Ortqx270Av-UDUtiYeFw&s=10
+    * Source researched: Onshape is known for cloud collaboration and automotive CAD design.
 
-* **Siemens Simcenter**
-  * Link: https://plm.sw.siemens.com/en-US/simcenter/
-  * Vehicle simulation software.
-  * Analyzes durability, battery performance, aerodynamics, and noise.
-  * Helps improve vehicle performance before physical testing.
-  * Hardware: Windows, Engineering Workstations, HPC Systems.
-  * Picture:
+  - **ANSYS**
+    * Link: https://www.ansys.com
+    * Engineering simulation software.
+    * Tests crash performance, airflow, heat transfer, and vehicle safety.
+    * Helps reduce the need for physical prototypes.
+    * Hardware: Windows, Linux, High-Performance Computing Systems (HPC).
+    * Picture:
+      ![ANSYS Simulation](https://github.com/omara6671/sep10-freedom-project/blob/dea7c43724b0cb130a6dbb6a4efade3653f50732/maxresdefault.jpg)
+    * Image URL: https://i.ytimg.com/vi/EhTO0_ovhnA/maxresdefault.jpg
+    * Source researched: ANSYS is used for crash, aerodynamic, thermal, and performance simulations.
+
+  - **Siemens Simcenter**
+    * Link: https://plm.sw.siemens.com/en-US/simcenter/
+    * Vehicle simulation software.
+    * Analyzes durability, battery performance, aerodynamics, and noise.
+    * Helps improve vehicle performance before physical testing.
+    * Hardware: Windows, Engineering Workstations, HPC Systems.
+    * Picture:
       ![SiemensDashobard](https://github.com/omara6671/sep10-freedom-project/blob/dc0df715016c0fdbf7235e1a2d54f5de438bc80d/Simcenter-Testlab-Transfer-path-analysis-1-1280x768.png)
-  * Image URL: https://blogs.sw.siemens.com/wp-content/uploads/sites/6/2026/09/Simcenter-Testlab-Transfer-path-analysis-1-1280x768.png
-  * Source researched: Simcenter supports durability, CFD, NVH, and electrification analysis.
+    * Image URL: https://blogs.sw.siemens.com/wp-content/uploads/sites/6/2026/09/Simcenter-Testlab-Transfer-path-analysis-1-1280x768.png
+    * Source researched: Simcenter supports durability, CFD, NVH, and electrification analysis.
 
 ---
 
 ### Key Findings
 
-* Automotive engineering relies heavily on **CAD software** for vehicle design.
-* Engineers use **simulation software** to test safety, aerodynamics, durability, and performance before building real prototypes.
-* Software allows engineers to model, analyze, and improve vehicles before they are manufactured.
-* Many automotive software tools support electric vehicle development, battery systems, and future transportation technologies.
-* Modern automotive development depends on software throughout the design, testing, and production process.
+- Automotive engineering relies heavily on **CAD software** for vehicle design.
+
+- Engineers use **simulation software** to test safety, aerodynamics, durability, and performance before building real prototypes.
+
+- Software allows engineers to model, analyze, and improve vehicles before they are manufactured.
+
+- Many automotive software tools support electric vehicle development, battery systems, and future transportation technologies.
+
+- Modern automotive development depends on software throughout the design, testing, and production process.
+
 
 ---
 ### What is CAD Software?
 
-* CAD stands for **Computer-Aided Design**.
-* CAD software allows automotive engineers to create, edit, and test digital 2D and 3D vehicle models before physical prototypes are built.
-* Programs such as CATIA, Siemens NX, Creo, Fusion 360, and Onshape help engineers design vehicle bodies, engines, frames, battery systems, and individual automotive components with high precision.
-* Using CAD software reduces development costs, improves accuracy, speeds up production, and allows engineers to identify design problems early in the development process.
+- CAD stands for **Computer-Aided Design**.
+
+- CAD software allows automotive engineers to create, edit, and test digital 2D and 3D vehicle models before physical prototypes are built.
+
+- Programs such as CATIA, Siemens NX, Creo, Fusion 360, and Onshape help engineers design vehicle bodies, engines, frames, battery systems, and individual automotive components with high precision.
+
+- Using CAD software reduces development costs, improves accuracy, speeds up production, and allows engineers to identify design problems early in the development process.
+
 
 ### How These Software Tools Are Used
 
-* The software and websites listed above are professional engineering tools used throughout the automotive industry.
-* Automotive engineers use these applications to design vehicles, create 3D models, run simulations, test safety systems, analyze aerodynamics, evaluate battery performance, and improve overall vehicle efficiency.
-* Programs such as CATIA, Siemens NX, Creo, Fusion 360, and Onshape allow engineers to digitally design and modify vehicle components before physical prototypes are built.
-* Simulation tools such as ANSYS and Siemens Simcenter help engineers investigate real-world conditions by testing crash safety, airflow, durability, noise, temperature, and vehicle performance through virtual simulations.
-* The links included above provide access to the official websites for each software platform, allowing users to further investigate the tools that automotive engineers currently use in vehicle development.
-* These applications help companies save time, reduce costs, improve accuracy, identify design problems earlier, and develop safer and more advanced vehicles before manufacturing begins.
+- The software and websites listed above are professional engineering tools used throughout the automotive industry.
+
+- Automotive engineers use these applications to design vehicles, create 3D models, run simulations, test safety systems, analyze aerodynamics, evaluate battery performance, and improve overall vehicle efficiency.
+
+- Programs such as CATIA, Siemens NX, Creo, Fusion 360, and Onshape allow engineers to digitally design and modify vehicle components before physical prototypes are built.
+
+- Simulation tools such as ANSYS and Siemens Simcenter help engineers investigate real-world conditions by testing crash safety, airflow, durability, noise, temperature, and vehicle performance through virtual simulations.
+
+- The links included above provide access to the official websites for each software platform, allowing users to further investigate the tools that automotive engineers currently use in vehicle development.
+
+- These applications help companies save time, reduce costs, improve accuracy, identify design problems earlier, and develop safer and more advanced vehicles before manufacturing begins.
+
 
 ---
 ##### Hardware
@@ -142,122 +177,150 @@ Topic: **Automotive Engineering**
 
 ### Searches Used
 
-* "automotive engineering hardware"
-* "hardware used by automotive engineers"
-* "automotive manufacturing robots"
-* "electric vehicle battery technology"
-* "vehicle testing equipment"
-* "automotive engineering tools"
-* "LiDAR sensors automotive"
-* "automotive radar systems"
-* "automotive safety testing equipment"
-* "automotive factory technology"
-* "automotive engineering devices"
-* "EV battery testing systems"
-* "wind tunnel automotive testing"
-* "automotive diagnostic hardware"
-* "robotics in automotive engineering"
+- "automotive engineering hardware"
+
+- "hardware used by automotive engineers"
+
+- "automotive manufacturing robots"
+
+- "electric vehicle battery technology"
+
+- "vehicle testing equipment"
+
+- "automotive engineering tools"
+
+- "LiDAR sensors automotive"
+
+- "automotive radar systems"
+
+- "automotive safety testing equipment"
+
+- "automotive factory technology"
+
+- "automotive engineering devices"
+
+- "EV battery testing systems"
+
+- "wind tunnel automotive testing"
+
+- "automotive diagnostic hardware"
+
+- "robotics in automotive engineering"
+
 
 ---
 
-* **Industrial Robotic Arms**
-  * Link: https://www.fanucamerica.com
-  * Used in vehicle manufacturing to weld, paint, assemble, and move vehicle parts.
-  * Improves production speed, accuracy, consistency, and worker safety.
-  * Commonly used by companies such as Tesla, Ford, Toyota, and BMW.
-  * Availability: Available for purchase directly from industrial robotics manufacturers such as FANUC and other automation suppliers. Typically purchased by factories and manufacturing facilities rather than individual consumers.
-   * Picture:   
-    ![Industrial Robotic Arms](https://github.com/omara6671/sep10-freedom-project/blob/d0e211b1cbca4dfe64e5756601e9cda0fa310846/images%20(2).jpeg)
-  * Image URL: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0-9ZwZCkoPsQgR5znbhxxxdHqQxf496Hd2jaB9j3RbHn01JXdilwuNe27&s=10
-  * Source researched: Industrial robots are a major part of modern automotive manufacturing and assembly lines.
+### Organized by Timeline: Evolution of Hardware Technologies
 
-* **LiDAR Sensors**
-  * Link: https://velodynelidar.com
-  * Uses laser beams to create a detailed 3D map of a vehicle's surroundings.
-  * Helps autonomous and semi-autonomous vehicles detect roads, objects, and pedestrians.
-  * Important for self-driving technology and advanced safety systems.
-  * Availability: Available through LiDAR manufacturers and automotive suppliers for research, testing, and autonomous vehicle development.
-  * Picture:
-    ![LiDAR Sensor](https://github.com/omara6671/sep10-freedom-project/blob/732ae8512529e1d1f616a1ea6a9c85236ea01251/1670667732-velodyne-lidar-mounted-on-the-dewesoft-test-vehicle.avif)
-  * Image URL: https://www.datocms-assets.com/53444/1670667732-velodyne-lidar-mounted-on-the-dewesoft-test-vehicle.jpg?auto=format&fit=max&w=1024
-  * Source researched: LiDAR is widely used in autonomous vehicle testing and development.
+- **Traditional Mechanical Era**
+  - **Wind Tunnels**
+    * Link: https://www.nasa.gov
+    * Used to study vehicle aerodynamics.
+    * Allows engineers to observe airflow around a vehicle.
+    * Helps improve efficiency, stability, and fuel economy while reducing drag.
+    * Availability: Typically built and operated by automotive companies, research organizations, universities, and testing centers rather than sold as consumer products.
+    * Picture:
+      ![Wind Tunnel Testing](https://github.com/omara6671/sep10-freedom-project/blob/75c21450fce956fcc6592a68160d8423c1002fac/1667831781-wind-tunnel.avif)
+    * Image URL: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2dkpFV3hQJlyjg8dU8wSUAyJCLz4fSL40weaRINwy8Aazqfc-xMNMKFA&s=10
+    * Source researched: Wind tunnels are important tools for aerodynamic vehicle design and testing.
 
-* **Automotive Radar Sensors**
-  * Link: https://www.bosch.com
-  * Detects nearby vehicles, obstacles, and objects.
-  * Used in adaptive cruise control, collision avoidance, and blind-spot monitoring.
-  * Performs well in poor weather conditions such as rain and fog.
-  * Availability: Commonly available through automotive manufacturers and suppliers and installed in many modern vehicles.
-   * Picture:   
-    ![Automotive Radar Sensor](https://github.com/omara6671/sep10-freedom-project/blob/f8c0f1d7047ec8aa42e3fd2f4927ecebb1cb3fe6/bbm_front_corner_radar_generation7_video_thumbnail.jpg)
-  * Image URL: https://www.bosch-mobility.com/media/global/solutions/passenger-cars-and-light-commercial-vehicles/driver-assistance-systems/multi-camera-system/front-radar-plus/bbm_front_corner_radar_generation7_video_thumbnail.jpg
-  * Source researched: Radar sensors are essential hardware for modern vehicle safety systems.
+  - **Vehicle Dynamometers**
+    * Link: https://www.horiba.com
+    * Testing equipment that measures vehicle and engine performance.
+    * Simulates real driving conditions while keeping the vehicle stationary.
+    * Used to evaluate horsepower, torque, fuel efficiency, and emissions.
+    * Availability: Available from automotive testing equipment manufacturers and primarily used by engineering companies, manufacturers, and research facilities.
+    * Picture:
+      ![Vehicle Dynamometer](https://github.com/omara6671/sep10-freedom-project/blob/1dcb6a51871d4eed0a24e13ccae71c0e0936f0f5/images%20(6).jpeg)
+    * Image URL: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2dkpFV3hQJlyjg8dU8wSUAyJCLz4fSL40weaRINwy8Aazqfc-xMNMKFA&s=10
+    * Source researched: Dynamometers are commonly used during automotive testing and development.
 
-* **Electric Vehicle Battery Packs**
-  * Link: https://www.tesla.com
-  * Stores electrical energy used to power electric vehicles.
-  * One of the most important hardware components in EV engineering.
-  * Engineers focus on improving battery range, charging speed, performance, and safety.
-  * Availability: Available through electric vehicle manufacturers and battery suppliers. Primarily designed for vehicle production and engineering applications.
-   * Picture:   
-    ![Electric Vehicle Battery Pack](https://github.com/omara6671/sep10-freedom-project/blob/722b7c81e6d859c819acfd639f0b5a22a0b9b028/images%20(3).jpeg)
-  * Image URL: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeUZHJ8btThbsd03V6Pee1WlIhmOPgvBQIjYGCcESfq2CbwTrFq0N9Qpk&s=10
-  * Source researched: Battery technology plays a critical role in electric vehicle development.
+- **Electromechanical Era**
+  - **Industrial Robotic Arms**
+    * Link: https://www.fanucamerica.com
+    * Used in vehicle manufacturing to weld, paint, assemble, and move vehicle parts.
+    * Improves production speed, accuracy, consistency, and worker safety.
+    * Commonly used by companies such as Tesla, Ford, Toyota, and BMW.
+    * Availability: Available for purchase directly from industrial robotics manufacturers such as FANUC and other automation suppliers. Typically purchased by factories and manufacturing facilities rather than individual consumers.
+    * Picture:
+      ![Industrial Robotic Arms](https://github.com/omara6671/sep10-freedom-project/blob/d0e211b1cbca4dfe64e5756601e9cda0fa310846/images%20(2).jpeg)
+    * Image URL: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0-9ZwZCkoPsQgR5znbhxxxdHqQxf496Hd2jaB9j3RbHn01JXdilwuNe27&s=10
+    * Source researched: Industrial robots are a major part of modern automotive manufacturing and assembly lines.
 
-* **Battery Testing Systems**
-  * Link: https://www.keysight.com
-  * Used to test battery durability, charging cycles, efficiency, and safety.
-  * Helps engineers improve battery performance before vehicles are released.
-  * Frequently used in EV research and development laboratories.
-  * Availability: Available through engineering equipment companies and laboratory testing suppliers for professional and industrial use.
-   * Picture:     
-    ![Battery Testing System](https://github.com/omara6671/sep10-freedom-project/blob/87bb4ea04e7e7f630b488b9944e0bdd37f145cba/images%20(4).jpeg)
-  * Image URL: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShGwow0t9b2Ln0hzjK87W9mFY2PSPmUkb6wR6jBhwH0w&s
-  * Source researched: Battery testing hardware helps ensure electric vehicle batteries meet safety and performance standards.
+  - **Vehicle Diagnostic Scanners**
+    * Link: https://www.snapon.com
+    * Connects to a vehicle's onboard computer system.
+    * Reads fault codes and identifies mechanical or electrical problems.
+    * Used by engineers and technicians for troubleshooting and performance analysis.
+    * Availability: Widely available through automotive tool companies and online retailers for both professional technicians and advanced vehicle diagnostics.
+    * Picture:
+      ![Vehicle Diagnostic Scanner](https://github.com/omara6671/sep10-freedom-project/blob/19a1e6a3f38e60c2942f8517e6cca9739b5c1316/images%20(7).jpeg)
+    * Image URL: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Y_ax-z4ubVVC7Zb54d-h_OETtxqvqHsYF8G0_8XSlMUJgbswP6EnyKbh&s=10
+    * Source researched: Diagnostic scanners help identify and analyze vehicle system issues.
 
-* **Vehicle Dynamometers**
-  * Link: https://www.horiba.com
-  * Testing equipment that measures vehicle and engine performance.
-  * Simulates real driving conditions while keeping the vehicle stationary.
-  * Used to evaluate horsepower, torque, fuel efficiency, and emissions.
-  * Availability: Available from automotive testing equipment manufacturers and primarily used by engineering companies, manufacturers, and research facilities.
-  * Picture:   
-    ![Vehicle Dynamometer](https://github.com/omara6671/sep10-freedom-project/blob/1dcb6a51871d4eed0a24e13ccae71c0e0936f0f5/images%20(6).jpeg)
-  * Image URL: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2dkpFV3hQJlyjg8dU8wSUAyJCLz4fSL40weaRINwy8Aazqfc-xMNMKFA&s=10
-  * Source researched: Dynamometers are commonly used during automotive testing and development.
+- **Modern Era**
+  - **LiDAR Sensors**
+    * Link: https://velodynelidar.com
+    * Uses laser beams to create a detailed 3D map of a vehicle's surroundings.
+    * Helps autonomous and semi-autonomous vehicles detect roads, objects, and pedestrians.
+    * Important for self-driving technology and advanced safety systems.
+    * Availability: Available through LiDAR manufacturers and automotive suppliers for research, testing, and autonomous vehicle development.
+    * Picture:
+      ![LiDAR Sensor](https://github.com/omara6671/sep10-freedom-project/blob/732ae8512529e1d1f616a1ea6a9c85236ea01251/1670667732-velodyne-lidar-mounted-on-the-dewesoft-test-vehicle.avif)
+    * Image URL: https://www.datocms-assets.com/53444/1670667732-velodyne-lidar-mounted-on-the-dewesoft-test-vehicle.jpg?auto=format&fit=max&w=1024
+    * Source researched: LiDAR is widely used in autonomous vehicle testing and development.
 
-* **Wind Tunnels**
-  * Link: https://www.nasa.gov
-  * Used to study vehicle aerodynamics.
-  * Allows engineers to observe airflow around a vehicle.
-  * Helps improve efficiency, stability, and fuel economy while reducing drag.
-  * Availability: Typically built and operated by automotive companies, research organizations, universities, and testing centers rather than sold as consumer products.
-  * Picture:   
-    ![Wind Tunnel Testing](https://github.com/omara6671/sep10-freedom-project/blob/75c21450fce956fcc6592a68160d8423c1002fac/1667831781-wind-tunnel.avif)
-  * Image URL: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2dkpFV3hQJlyjg8dU8wSUAyJCLz4fSL40weaRINwy8Aazqfc-xMNMKFA&s=10
-  * Source researched: Wind tunnels are important tools for aerodynamic vehicle design and testing.
+  - **Automotive Radar Sensors**
+    * Link: https://www.bosch.com
+    * Detects nearby vehicles, obstacles, and objects.
+    * Used in adaptive cruise control, collision avoidance, and blind-spot monitoring.
+    * Performs well in poor weather conditions such as rain and fog.
+    * Availability: Commonly available through automotive manufacturers and suppliers and installed in many modern vehicles.
+    * Picture:
+      ![Automotive Radar Sensor](https://github.com/omara6671/sep10-freedom-project/blob/f8c0f1d7047ec8aa42e3fd2f4927ecebb1cb3fe6/bbm_front_corner_radar_generation7_video_thumbnail.jpg)
+    * Image URL: https://www.bosch-mobility.com/media/global/solutions/passenger-cars-and-light-commercial-vehicles/driver-assistance-systems/multi-camera-system/front-radar-plus/bbm_front_corner_radar_generation7_video_thumbnail.jpg
+    * Source researched: Radar sensors are essential hardware for modern vehicle safety systems.
 
-* **Vehicle Diagnostic Scanners**
-  * Link: https://www.snapon.com
-  * Connects to a vehicle's onboard computer system.
-  * Reads fault codes and identifies mechanical or electrical problems.
-  * Used by engineers and technicians for troubleshooting and performance analysis.
-  * Availability: Widely available through automotive tool companies and online retailers for both professional technicians and advanced vehicle diagnostics.
-  * Picture:   
-    ![Vehicle Diagnostic Scanner](https://github.com/omara6671/sep10-freedom-project/blob/19a1e6a3f38e60c2942f8517e6cca9739b5c1316/images%20(7).jpeg)
-  * Image URL: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Y_ax-z4ubVVC7Zb54d-h_OETtxqvqHsYF8G0_8XSlMUJgbswP6EnyKbh&s=10
-  * Source researched: Diagnostic scanners help identify and analyze vehicle system issues.
+  - **Electric Vehicle Battery Packs**
+    * Link: https://www.tesla.com
+    * Stores electrical energy used to power electric vehicles.
+    * One of the most important hardware components in EV engineering.
+    * Engineers focus on improving battery range, charging speed, performance, and safety.
+    * Availability: Available through electric vehicle manufacturers and battery suppliers. Primarily designed for vehicle production and engineering applications.
+    * Picture:
+      ![Electric Vehicle Battery Pack](https://github.com/omara6671/sep10-freedom-project/blob/722b7c81e6d859c819acfd639f0b5a22a0b9b028/images%20(3).jpeg)
+    * Image URL: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeUZHJ8btThbsd03V6Pee1WlIhmOPgvBQIjYGCcESfq2CbwTrFq0N9Qpk&s=10
+    * Source researched: Battery technology plays a critical role in electric vehicle development.
+
+  - **Battery Testing Systems**
+    * Link: https://www.keysight.com
+    * Used to test battery durability, charging cycles, efficiency, and safety.
+    * Helps engineers improve battery performance before vehicles are released.
+    * Frequently used in EV research and development laboratories.
+    * Availability: Available through engineering equipment companies and laboratory testing suppliers for professional and industrial use.
+    * Picture:
+      ![Battery Testing System](https://github.com/omara6671/sep10-freedom-project/blob/87bb4ea04e7e7f630b488b9944e0bdd37f145cba/images%20(4).jpeg)
+    * Image URL: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShGwow0t9b2Ln0hzjK87W9mFY2PSPmUkb6wR6jBhwH0w&s
+    * Source researched: Battery testing hardware helps ensure electric vehicle batteries meet safety and performance standards.
+
 ---
 
 ### Key Findings
 
-* Automotive engineering relies on a combination of manufacturing, testing, safety, and diagnostic hardware.
-* Robotics and automation technologies are essential for modern vehicle production because they improve efficiency, precision, safety, and manufacturing consistency.
-* Sensors such as LiDAR and radar help improve vehicle safety and support autonomous and driver-assistance technologies.
-* Battery technology has become increasingly important because of the rapid growth of electric vehicles and sustainable transportation.
-* Testing equipment such as dynamometers, battery testing systems, and wind tunnels allows engineers to improve vehicle performance, efficiency, reliability, and safety before production.
-* Modern automotive engineering combines mechanical systems, electronics, sensors, robotics, and advanced testing equipment to develop next-generation vehicles.
-* Hardware and software work together throughout the entire automotive engineering process, from vehicle design and testing to manufacturing and real-world operation.
+- Automotive engineering relies on a combination of manufacturing, testing, safety, and diagnostic hardware.
+
+- Robotics and automation technologies are essential for modern vehicle production because they improve efficiency, precision, safety, and manufacturing consistency.
+
+- Sensors such as LiDAR and radar help improve vehicle safety and support autonomous and driver-assistance technologies.
+
+- Battery technology has become increasingly important because of the rapid growth of electric vehicles and sustainable transportation.
+
+- Testing equipment such as dynamometers, battery testing systems, and wind tunnels allows engineers to improve vehicle performance, efficiency, reliability, and safety before production.
+
+- Modern automotive engineering combines mechanical systems, electronics, sensors, robotics, and advanced testing equipment to develop next-generation vehicles.
+
+- Hardware and software work together throughout the entire automotive engineering process, from vehicle design and testing to manufacturing and real-world operation.
+
 
 ---
 
